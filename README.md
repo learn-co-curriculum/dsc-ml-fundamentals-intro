@@ -1,4 +1,4 @@
-# Predictive Regression Modeling - Introduction
+# Machine Learning Fundamentals - Introduction
 
 ## Introduction
 
